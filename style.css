@@ -1,0 +1,24 @@
+.fanda-card{
+    border: 0;
+
+}
+
+.fanda-card-footer{
+    background-color: white;
+    border-top: 0;
+}
+
+.catagories img{
+    width: 100px;
+
+}
+
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+
+.card-bg{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
